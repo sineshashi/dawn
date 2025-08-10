@@ -44,6 +44,8 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/a-stylish-young-indian-woman-in-her-mid-20s-wearing-a-chic-modern-outfit-perfect-for-the-monsoon-season-a-coordinated-cotton-kurta-set-in-pastel-lavender-with-minimal-gold-embroidery.png",
+        "image_2": "shopify://shop_images/a-confident-young-indian-man-in-his-late-20s-wearing-a-modern-casual-monsoon-season-outfit-a-pastel-mint-linen-shirt-with-sleeves-rolled-up-paired-with-beige-chinos-and-classic-white.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
