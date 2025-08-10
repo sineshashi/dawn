@@ -127,6 +127,7 @@
         },
         "product": {
           "type": "product",
+          "name": "Collection",
           "settings": {
             "product": "combo-of-mens-ns-lycra-track-pants",
             "second_image": false
@@ -145,7 +146,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Comfort and Fashion",
+        "heading": "Comfortable Items for Men & Women",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
