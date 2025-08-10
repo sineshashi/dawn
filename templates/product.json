@@ -92,15 +92,15 @@
             "page": ""
           }
         },
+        "judge_me_reviews_preview_badge_4xAUGW": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
         "share": {
           "type": "share",
           "settings": {
             "share_label": "Share"
           }
-        },
-        "judge_me_reviews_preview_badge_4xAUGW": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
         }
       },
       "block_order": [
@@ -116,8 +116,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "judge_me_reviews_preview_badge_4xAUGW"
+        "judge_me_reviews_preview_badge_4xAUGW",
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
