@@ -64,14 +64,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Curated Comfort. Everyday Style.",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>We handpick the best in casual-luxury fashion — from ultra-soft T-shirts and tailored joggers to statement handbags and shoes. Each piece in our collection is chosen for its comfort, quality, and modern appeal, so you can shop the latest trends without the guesswork.</p>"
           }
         }
       },
