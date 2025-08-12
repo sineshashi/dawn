@@ -56,14 +56,9 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "",
-            "page": ""
-          }
+        "judge_me_reviews_preview_badge_4xAUGW": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
@@ -73,19 +68,6 @@
             "content": "",
             "page": "shipping-and-returns"
           }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Size",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "judge_me_reviews_preview_badge_4xAUGW": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
         },
         "share": {
           "type": "share",
@@ -103,10 +85,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
         "judge_me_reviews_preview_badge_4xAUGW",
+        "collapsible-row-1",
         "share"
       ],
       "settings": {
