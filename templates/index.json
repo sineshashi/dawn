@@ -91,11 +91,11 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "editor-s-pick-comfort-meets-style",
         "products_to_show": 8,
-        "title": "Featured products",
+        "title": "Editor’s Pick: Comfort Meets Style",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Discover our handpicked favorite of the season — a perfect blend of comfort and trend. Designed for all-day wear, this piece is crafted with premium fabrics, flattering cuts, and versatile style that transitions effortlessly from home to hangout.</p>",
         "show_description": false,
         "description_style": "body",
         "columns_desktop": 4,
