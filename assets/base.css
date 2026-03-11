@@ -1,11 +1,35 @@
+/* ===========================
+   BLEND BAZAR — Brand Tokens
+   =========================== */
 :root {
-  --alpha-button-background: 1;
-  --alpha-button-border: 1;
-  --alpha-link: 0.85;
-  --alpha-badge-border: 0.1;
-  --focused-base-outline: 0.2rem solid rgba(var(--color-foreground), 0.5);
-  --focused-base-outline-offset: 0.3rem;
-  --focused-base-box-shadow: 0 0 0 0.3rem rgb(var(--color-background)), 0 0 0.5rem 0.4rem rgba(var(--color-foreground), 0.3);
+  /* Brand Colors */
+  --color-base-background-1: #FAFAF8;   /* Warm off-white — main bg */
+  --color-base-background-2: #F2EFE9;   /* Slightly darker warm — alt sections */
+  --color-base-text: #1A1A18;           /* Near black — body text */
+  --color-base-accent-1: #C8975A;       /* Warm camel/tan — primary CTA */
+  --color-base-accent-2: #2C2C2C;       /* Charcoal — secondary accent */
+
+  /* Borders & Shadows */
+  --color-base-outline-button-labels: #1A1A18;
+  --color-base-border: #E0DDD6;
+
+  /* Typography Scale */
+  --font-heading-family: 'Cormorant Garamond', Georgia, serif; /* Elegant editorial */
+  --font-body-family: 'DM Sans', 'Inter', sans-serif;          /* Clean, readable */
+  --font-heading-weight: 500;
+  --font-body-weight: 400;
+
+  /* Spacing */
+  --page-width: 1320px;
+  --grid-desktop-horizontal-spacing: 24px;
+  --grid-desktop-vertical-spacing: 24px;
+  --grid-mobile-horizontal-spacing: 12px;
+  --grid-mobile-vertical-spacing: 16px;
+
+  /* Buttons */
+  --buttons-radius: 0px;           /* Sharp corners = editorial fashion feel */
+  --buttons-border-width: 1.5px;
+  --inputs-radius: 0px;
 }
 
 .product-card-wrapper .card,
